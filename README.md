@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @paterson1720
+- Expert JavaScript/TypeSctipt React/Next.js & Node.js Developer
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on opensource JavaScript/TypeScript projects
